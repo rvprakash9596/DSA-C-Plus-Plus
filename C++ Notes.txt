@@ -1,4 +1,4 @@
-.C++ is a Case Sensitive Programming Language
+C++ is a Case Sensitive Programming Language
 
 						
 							Variables , DataTypes and Operators
@@ -46,8 +46,37 @@ a.out ==> For Mac
 
 
 
+Print Your Name :
+-----------------
+#include<iostream>
+using namespace std;
+
+//This is the starting point of execution
+int main(){
+    cout<<"Hello";
+    cout<<"Ravi\n";
+    cout<<"Prakash\n";
+    cout<<"Singh";
+    return 0;
+}
 
 
+
+Boilerplate Code
+----------------
+
+#include<iostream>
+using namespace std;
+
+int main(){
+
+    return 0;
+}
+
+
+
+								Variables
+							============================
 
 
 
