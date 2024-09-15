@@ -27,14 +27,21 @@ cout<<(3!=5)<<"\n";//1
 */
 
 //3. Logical Operator (||,&&,!)
+/*
 cout<<!(3<1)<<"\n";//1
 cout<<!(3<1)<<"\n";//1
 cout<<((3>1)||(3<5))<<"\n";//1
 cout<<((3>1)&&(5<3))<<"\n";//0
+*/
 
 //4. Unary Operator(Increment ++ , Decrement --)
-// a=a+1 ===> a++;
-// a=a-1 ===> a--;
+// a=a+1 ===> a++ || ++a;
+// a=a-1 ===> a-- || --a;
+
+int a=10;
+int b=a++;
+cout<<b<<"\n";
+cout<<a<<"\n";
 
 
 
