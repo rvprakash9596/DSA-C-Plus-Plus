@@ -32,5 +32,10 @@ cout<<!(3<1)<<"\n";//1
 cout<<((3>1)||(3<5))<<"\n";//1
 cout<<((3>1)&&(5<3))<<"\n";//0
 
+//4. Unary Operator(Increment ++ , Decrement --)
+
+
+
+
 return 0;
 }
