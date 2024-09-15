@@ -78,6 +78,30 @@ int main(){
 								Variables
 							============================
 
+Variables are like as container which holds/stores different data.
+
+
+age=21;
+grade='A';
+
+								Data Types
+							===========================
+
+.int    	4 bytes
+.char		1 bytes
+.float
+.double
+.bool
+
+
+
+
+
+
+
+
+
+
 
 
 
