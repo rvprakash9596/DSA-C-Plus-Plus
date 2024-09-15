@@ -44,6 +44,12 @@ int b=a++;
 cout<<b<<"\n";
 cout<<a<<"\n";
 
+int c=10;
+int d=--c;
+int e=c--;
+cout<<"C="<<d<<"\n";
+cout<<"C="<<e;
+
 
 
 return 0;
