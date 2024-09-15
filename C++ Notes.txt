@@ -1,0 +1,58 @@
+.C++ is a Case Sensitive Programming Language
+
+						
+							Variables , DataTypes and Operators
+						==================================================
+
+Our First Program :
+-------------------
+
+Output in C++ :
+---------------
+
+int main(){
+cout<<Hello Bhai";
+}
+
+
+
+
+
+#include<iostream>
+using namespace std;// std is a namespace
+
+int main(){
+cout<<"This is first C++ Program";
+return 0;
+}
+
+
+
+How does code run ?
+-------------------
+
+ firstcode.cpp -----> Compiler -----> firstcode.exe
+
+(source code)                        (Executable File)
+
+
+PS F:\DSA C++\Lec 2 Variable DataTypes Operators> g++ firstcode.cpp
+PS F:\DSA C++\Lec 2 Variable DataTypes Operators> .\a.exe 
+
+
+
+a.exe ==> For Windows
+a.out ==> For Mac
+
+
+
+
+
+
+
+
+
+
+
+
+
