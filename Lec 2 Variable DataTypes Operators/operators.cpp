@@ -40,6 +40,7 @@ cout<<((3>1)&&(5<3))<<"\n";//0
 
 int a=10;
 int b=a++;
+// int b=++a;
 cout<<b<<"\n";
 cout<<a<<"\n";
 
