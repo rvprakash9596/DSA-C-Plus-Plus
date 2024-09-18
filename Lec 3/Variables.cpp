@@ -2,6 +2,8 @@
 using namespace std;
 int main(){
 
+//                                          DataTypes==========>>>
+
     /*
     int a;//Variable Declaration
     a=10;//Variable Initialization
@@ -35,9 +37,10 @@ cout<<b1;
 cout<<b2;
 */
 
+/*
 int a=-25;
 cout<<a;
-
+*/
 
 
 }
