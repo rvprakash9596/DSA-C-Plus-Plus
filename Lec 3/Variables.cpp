@@ -28,10 +28,15 @@ double d=5.654784;
 cout<<d;
 */
 
+/*
 bool b1=true;
 bool b2=false;
 cout<<b1;
 cout<<b2;
+*/
+
+int a=-25;
+cout<<a;
 
 
 
